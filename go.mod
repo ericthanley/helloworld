@@ -1,5 +1,5 @@
-module github.com/bep/gallerydeluxe_starter
+module github.com/ericthanley/helloworld/
 
 go 1.19
 
-require github.com/bep/gallerydeluxe v0.8.1 // indirect
+require github.com/ericthanley/helloworld/ // indirect
